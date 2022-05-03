@@ -1,6 +1,6 @@
 //*****************************************************************************
 //
-// freertos_demo.c - Simple FreeRTOS example.
+// Robot_Arm_ECEN5623.c - Simple FreeRTOS example.
 //
 // Copyright (c) 2012-2017 Texas Instruments Incorporated.  All rights reserved.
 // Software License Agreement
